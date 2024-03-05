@@ -1,0 +1,52 @@
+{
+  "email": [
+    {
+      "id": "c577",
+      "email": "wander1122@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "bf30",
+      "email": "mendos789@gmail.com",
+      "password": "62232"
+    },
+    {
+      "id": "acf5",
+      "email": "maya2527@gmail.com",
+      "password": "9887776fdg"
+    },
+    {
+      "id": "43e3",
+      "email": "riya2345t@gmail.com",
+      "password": "erf567800"
+    },
+    {
+      "id": "c8f9",
+      "email": "ramcv455@gmail.com",
+      "password": "ramcv000"
+    },
+    {
+      "id": "d9db",
+      "email": "mariya8uoid@gmail.com",
+      "password": "mariyaMARIYA23"
+    }
+  ],
+  "password": [
+    {
+      "id": "d2b6",
+      "CategoryName": "Testers",
+      "allvideos": []
+    },
+    {
+      "id": "d9e2",
+      "CategoryName": "DEVELOPER",
+      "mail": []
+    },
+    {
+      "id": "bae2",
+      "CategoryName": "ui/ux",
+      "mail": []
+    }
+  ],
+  "history": []
+}
